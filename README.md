@@ -1,2 +1,2 @@
 # MVVM-Example
-MVVM model text example
+MVVM model test example
